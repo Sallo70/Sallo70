@@ -1,87 +1,64 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi,%20I'm%20Muhammad%20Suleman&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20Python%20Expert&descAlignY=55&descAlign=62" />
-</div>
+# Hi, I'm Muhammad Suleman 👋
 
-<h3 align="center">Crafting Modern Web Apps & Powerful Automations</h3>
+**Aspiring Data Analyst | Python • Pandas • NumPy • SQL (MySQL) | BS Computer Science | Seeking Data / AI-ML Internship**
 
----
+I'm a BS Computer Science graduate from Pakistan, learning data analysis
+step by step and building in public. I learn best by building — so far
+that means Python with OOP, Pandas, NumPy, web scraping, and SQL with
+MySQL: the core toolkit of a data analyst.
 
-### 👨‍💻 About Me
+## About me
 
-- 🏢 Based in **Pakistan**
-- 💻 Specialized in **Frontend Development (React, JavaScript)**
-- 🐍 Deep expertise in **Python Automation & Scripting**
-- 🌟 I love solving complex problems with simple, elegant code
-- 📫 Reach me at: **[salimananp@gmail.com](mailto:salimananp@gmail.com)**
+- 🎓 BS Computer Science graduate
+- 📊 Aspiring Data Analyst — currently seeking a Data Analyst / AI-ML internship
+- 🐍 Building data projects in Python, Pandas and MySQL
+- 🌱 Next step: my first machine learning project (not built yet — I will add it here when it is done)
+- 📫 Reach me at [salimananp@gmail.com](mailto:salimananp@gmail.com)
 
----
+## Tech stack
 
-### 🛠️ Tech Stack & Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4A4A4A?style=for-the-badge&logo=python&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-<p align="center">
-  <a href="skill-badges">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  </a>
-</p>
+Only tools I have actually used in my projects. No skill here is claimed
+from a tutorial I only watched.
 
----
+## Featured projects
 
-### 🚀 Highlighted Python Projects
+| Project | What it is |
+|---|---|
+| [data-pipeline-scraping-pandas-mysql](https://github.com/Sallo70/data-pipeline-scraping-pandas-mysql) | End-to-end data pipeline: scrape quotes.toscrape.com (10 pages, 100 quotes) and country/population data (250 countries) with Requests + BeautifulSoup, clean in Pandas, store in a MySQL database (`onlinestoredb`), query with SQL JOINs and `read_sql` |
+| [python-mini-projects](https://github.com/Sallo70/python-mini-projects) | 7 Python mini projects: Hangman, Number Guessing, Calculator, To-Do List, Bank System, FizzBuzz, Random Password Generator |
+| [python-api-data-pipeline](https://github.com/Sallo70/python-api-data-pipeline) | Fetches weather, crypto and country data from APIs, processes it and shows terminal ASCII charts |
+| [python-automation-toolkit](https://github.com/Sallo70/python-automation-toolkit) | CLI toolkit to automate daily tasks: organise files, scrape websites, analyse CSVs, batch rename files |
+| [CodeAlpha_FileOrganizer](https://github.com/Sallo70/CodeAlpha_FileOrganizer) | Python script that organises and moves files between directories (CodeAlpha internship) |
+| [CodeAlpha_StockPortfolioTracker](https://github.com/Sallo70/CodeAlpha_StockPortfolioTracker) | Python CLI app to track and calculate investment value (CodeAlpha internship) |
 
-<table>
-  <tr>
-    <td width="50%">
-      <h4><a href="https://github.com/muhammad-suleman/python-automation-toolkit">🐍 Python Automation Toolkit</a></h4>
-      <p>A full CLI toolkit to automate daily tasks: organize files, scrape websites, analyze CSVs, batch rename files, and send bulk emails.</p>
-    </td>
-    <td width="50%">
-      <h4><a href="https://github.com/muhammad-suleman/python-api-data-pipeline">📊 API Data Pipeline</a></h4>
-      <p>Automated pipeline that fetches from weather/crypto/country APIs, processes the data, and displays terminal ASCII charts.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4><a href="https://github.com/muhammad-suleman/python-password-manager">🔐 Password Manager</a></h4>
-      <p>Secure CLI password vault with PBKDF2 Master Key derivation, AES encryption, and built-in password generator/strength checker.</p>
-    </td>
-    <td width="50%">
-      <h4><a href="https://github.com/muhammad-suleman/python-task-scheduler">⏱️ Task Scheduler</a></h4>
-      <p>Cron-like task scheduler built entirely in Python. Runs recurring background commands, logs output, and generates session summaries.</p>
-    </td>
-  </tr>
-</table>
+Other work in my project folders (Jupyter notebooks, not separate repos
+yet): Pandas analysis of Global Air Quality (18,000 rows), Titanic
+(891 rows) and Iris (150 rows), and Python OOP systems (ATM Bank System,
+Chat System, Bank Account System).
 
-### 🌐 Highlighted Web Project
+## GitHub stats
 
-**[React Frontend Portfolio](https://github.com/muhammad-suleman/muhammad-suleman-portfolio)**
-A stunning, responsive, dark-themed portfolio featuring glassmorphism design, scroll animations, typing effects, and an elegant layout.
+![Muhammad Suleman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sallo70&show_icons=true&theme=tokyonight&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sallo70&layout=compact&theme=tokyonight&hide_border=true)
 
----
+## Currently
 
-### 📈 GitHub Stats
+- 🔭 Working on: my first end-to-end data pipeline repo (above) and my first ML project next
+- 🤝 Looking for: a Data Analyst / AI-ML internship where I can work on real data and learn from a team
+- 💬 Ask me about: Python, Pandas, SQL, web scraping — or my projects
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammad-suleman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-suleman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f"/>
-</div>
+## Contact
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-suleman&theme=tokyonight&hide_border=true&background=0a0a0f"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/muhammad-suleman/muhammad-suleman/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
-
-<!-- 
-  NOTE TO UPDATE SNAKE ANIMATION:
-  You map need to setup a GitHub Action to auto-update the snake animation using platane/snk! 
--->
+- LinkedIn: [linkedin.com/in/sallo70](https://www.linkedin.com/in/sallo70)
+- Email: [salimananp@gmail.com](mailto:salimananp@gmail.com)
+- GitHub: [github.com/Sallo70](https://github.com/Sallo70)
